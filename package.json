@@ -1,7 +1,10 @@
 {
   "name": "nuxt-template",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "build": "nuxt build",
+    "start": "nuxt start"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
