@@ -1,0 +1,9 @@
+/* This file should be a manifest that only imports other CSS files */
+
+/* Tailwind */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Application */
+@import './application';

@@ -1,0 +1,11 @@
+# Node
+node_modules
+npm-debug.log
+
+# Nuxt
+.nuxt
+dist
+
+# Local Environment
+/.env
+/*.sublime-workspace
